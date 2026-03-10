@@ -30,7 +30,7 @@ export default defineConfig({
         dark: "github-dark",
         light: "github-light",
       },
-      langs: [cnfgLang, javaAnnotations, 'java'],
+      langs: [cnfgLang, 'java'],
       engine: "oniguruma",
     },
   },
