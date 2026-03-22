@@ -82,7 +82,7 @@ export default function MetadataImage({
         >
           <img src="https://wiki.soncresity.industries/icons/si.png"
             style={{
-              maxWidth: 64,
+              maxWidth: 96,
             }} />
           <span
             style={{
